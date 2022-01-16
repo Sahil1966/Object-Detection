@@ -1,0 +1,2 @@
+# Object-Detection
+I implemented the object detection model using OpenCV. The Deep Neural Network model I employed here is SSD(Single Shot MultiBox Detector) with MobileNet. This program reads an image file, which could be a single photo or a movie, and performs object detection, then shows the image with indicators(box for the object detected, category name, and confidence(%). This model can detect 80 categories of objects (listed in Labels.txt file).
